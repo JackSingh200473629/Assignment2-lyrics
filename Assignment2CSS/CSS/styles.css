@@ -27,6 +27,14 @@ body{
     background-color: #e1110d;
 }
 
+audio{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 60px;
+    width: 35%;
+}
+
 img{
     display: block;
     margin-left: auto;
