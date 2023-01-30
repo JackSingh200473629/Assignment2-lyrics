@@ -1,0 +1,77 @@
+@font-face{
+    font-family: fancyClassy;
+    src: url('../fonts/GeraldinePersonalUseItalic-PK12m.ttf');
+}
+
+@font-face{
+    font-family: streetFont;
+    src: url('../fonts/Painterz.ttf')
+}
+
+@font-face{
+    font-family: chorusFont;
+    src: url('../fonts/Bombing.ttf');
+}
+
+@font-face{
+    font-family: richFont;
+    src: url('../fonts/Trendgetter-xX58.ttf');
+}
+
+@font-face{
+    font-family: prisonFont;
+    src: url('../fonts/Octin\ Prison\ Bold.ttf')
+}
+
+body{
+    background-color: #e1110d;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 35%;
+}
+
+h1, h2, div{
+    text-align: center;
+}
+
+p{
+    color: #323351
+}
+
+.sample, .DJ-premier, .westside-gunn-chorus, .westside-gunn-verse{
+    font-size: 40px;
+    letter-spacing: 2px;
+}
+
+.sample{
+    font-family: fancyClassy;
+}
+
+.DJ-premier{
+    font-family: streetFont;
+}
+
+.westside-gunn-chorus{
+    font-family: chorusFont;
+}
+
+.westside-gunn-verse{
+    font-family: richFont;
+}
+
+.benny-the-butcher-verse{
+    font-family: prisonFont;
+    font-size: 30px;
+    letter-spacing: 1px;
+}
+
+i{
+    text-decoration: underline;
+    text-shadow: 4px 2px 4px rgba(0,0,0,0.5);
+    color: #f2c605;
+}
+
